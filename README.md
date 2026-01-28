@@ -2,5 +2,4 @@
 
 ![](https://file.garden/aIrFR9W4twp1wUOQ/4e5e3669a2e98902cf26e7c46417f22e.jpg)
 
-wip
-$\color{grey}{\textsf{don't make me get my hands dirty.}}$
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=don't+make+me+get+my+hands+dirty.&color=808080)](https://git.io/typing-svg)
